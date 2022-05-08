@@ -1,2 +1,2 @@
 # python-coding-tutorials
-Coding tutorials in python
+A bunch of coding tutorials in python for specific tasks covering File Handling, Data Cleaning, Functions and a few DSA problems.
